@@ -1,2 +1,2 @@
 # Images
-img src 
+Important images for img src (e.g. Discord polls, etc.)
